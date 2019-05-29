@@ -10,6 +10,6 @@ Connect Four is a two-player connection game. The winner is the first player to 
 - HTML
 - CSS
 
-# play it here:
+# play it here
 
 https://ingriddorioschulze.github.io/connect-four/
